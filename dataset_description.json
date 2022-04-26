@@ -1,14 +1,10 @@
 {
     "Name": "Emotional learning retroactively promotes memory integration through rapid neural reactivation and reorganization",
-	"License": "",
-	"BIDSVersion": "1.0.2",
+    "License": "CC0",
+    "BIDSVersion": "1.0.2",
     "Authors": [
         "Yannan Zhu",
         "Shaozheng Qin"
     ],
-    "Funding": [
-        "National Natural Science Foundation of China (31522028, 81571056)",
-        "Open Research Fund of the State Key Laboratory of Cognitive Neuroscience and Learning (CNLZD1503)",
-        "PhD scholarship (201806040186) of the Chinese Scholarship Council"
-    ]
+    "Funding": []
 }
